@@ -8,7 +8,10 @@ using System.Linq;
 using System.Dynamic;
 using System.Collections;
 using System.Text;
-namespace Quixote{
+
+//you can include this in your WebMatrix app and run from there
+//instead of the console runner
+namespace QuixoteWeb{
     public static class Runner {
         /// <summary>
         /// This is a helper method that will decipher the root URL of your site
